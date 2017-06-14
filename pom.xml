@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.atlassian.oai</groupId>
             <artifactId>swagger-request-validator-restassured</artifactId>
-            <version>1.0.7</version>
+            <version>1.0.18</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
